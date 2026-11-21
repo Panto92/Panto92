@@ -16,23 +16,27 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://opencognit.com"><b>🧠 OpenCognit</b></a><br />
+      <img src="logos/opencognit.png" width="56" alt="OpenCognit logo" /><br />
+      <a href="https://opencognit.com"><b>OpenCognit</b></a><br />
       <sub>Every coding agent in one window — Claude Code, Codex, Gemini CLI, Kimi and Hermes side by side, orchestrated and checked. Local, no telemetry.</sub><br /><br />
       <a href="https://github.com/Panto92/Opencognit"><img src="https://img.shields.io/github/stars/Panto92/Opencognit?color=d8b46a&label=stars" alt="Stars" /></a>
       <a href="https://github.com/OpenCognitOS/opencognit-releases/releases/latest"><img src="https://img.shields.io/github/v/release/OpenCognitOS/opencognit-releases?color=d8b46a&label=release" alt="Release" /></a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://saleshookai.com"><b>🧾 SalesHookAI</b></a><br />
+      <img src="logos/saleshookai.png" width="56" alt="SalesHookAI logo" /><br />
+      <a href="https://saleshookai.com"><b>SalesHookAI</b></a><br />
       <sub>Quotes, invoices, time tracking and scheduling for small businesses and trades — with Zera, an AI that does the office. GoBD, XRechnung, servers in Germany.</sub>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://mytherrablockchain.org"><b>⛓️ Mytherra</b></a><br />
+      <img src="logos/mytherra.png" width="56" alt="Mytherra logo" /><br />
+      <a href="https://mytherrablockchain.org"><b>Mytherra</b></a><br />
       <sub>A SHA-256 proof-of-work network with MYT — open mining, wallets, explorer and the end-to-end encrypted MYT Messenger.</sub>
     </td>
     <td valign="top">
-      <a href="https://github.com/Panto92/Pillbox"><b>💊 Pillbox</b></a><br />
+      <img src="logos/pillbox.svg" width="56" alt="Pillbox logo" /><br />
+      <a href="https://github.com/Panto92/Pillbox"><b>Pillbox</b></a><br />
       <sub>A calm, modern desktop for KDE Plasma 6 — floating pill panels, muted palette, no compiled code.</sub><br /><br />
       <a href="https://github.com/Panto92/Pillbox"><img src="https://img.shields.io/github/stars/Panto92/Pillbox?color=d8b46a&label=stars" alt="Stars" /></a>
     </td>
