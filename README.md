@@ -22,14 +22,14 @@
       <a href="https://github.com/OpenCognitOS/opencognit-releases/releases/latest"><img src="https://img.shields.io/github/v/release/OpenCognitOS/opencognit-releases?color=d8b46a&label=release" alt="Release" /></a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://saleshookai.com"><b>📈 SalesHookAI</b></a><br />
-      <sub>AI sales outreach for the DACH market — lead intelligence, follow-up sequences and email tracking.</sub>
+      <a href="https://saleshookai.com"><b>🧾 SalesHookAI</b></a><br />
+      <sub>Quotes, invoices, time tracking and scheduling for small businesses and trades — with Zera, an AI that does the office. GoBD, XRechnung, servers in Germany.</sub>
     </td>
   </tr>
   <tr>
     <td valign="top">
       <a href="https://mytherrablockchain.org"><b>⛓️ Mytherra</b></a><br />
-      <sub>A blockchain ecosystem — node, explorer, web wallet and messenger.</sub>
+      <sub>A SHA-256 proof-of-work network with MYT — open mining, wallets, explorer and the end-to-end encrypted MYT Messenger.</sub>
     </td>
     <td valign="top">
       <a href="https://github.com/Panto92/Pillbox"><b>💊 Pillbox</b></a><br />
