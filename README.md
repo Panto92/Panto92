@@ -25,7 +25,8 @@
     <td width="50%" valign="top">
       <img src="logos/saleshookai.png" width="56" alt="SalesHookAI logo" /><br />
       <a href="https://saleshookai.com"><b>SalesHookAI</b></a><br />
-      <sub>Quotes, invoices, time tracking and scheduling for small businesses and trades — with Zera, an AI that does the office. GoBD, XRechnung, servers in Germany.</sub>
+      <sub>The whole office for trades and small businesses: AI quotes and invoices (XRechnung, ZUGFeRD), time tracking, Planbook, project boards, fleet and a worker app — with Zera, an AI you can also ask from Claude or Le Chat. Germany, Austria, Poland.</sub><br /><br />
+      <a href="https://saleshookai.com"><img src="https://img.shields.io/badge/You_do_the_job.-Zera_does_the_office.-6d28d9" alt="You do the job. Zera does the office." /></a>
     </td>
   </tr>
   <tr>
